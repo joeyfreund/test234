@@ -1,0 +1,18 @@
+{
+  "name": "demo-web-scrape",
+  "version": "1.0.0",
+  "description": "This is just a demo",
+  "main": "src/index.js",
+
+  "scripts": {
+    "start" : "node src/index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+
+  "keywords": [
+    "demo",
+    "node"
+  ],
+  "author": "Joey",
+  "license": "ISC"
+}
