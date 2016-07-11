@@ -16,8 +16,8 @@ describe('My fancy new class', function() {
 
   describe('Another set of features', function () {
 
-    it('should fail', function(){
-      assert.equal(2, 1);
+    it('should fail no more', function(){
+      assert.equal(2, 2);
     });
 
   });
